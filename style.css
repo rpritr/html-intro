@@ -1,0 +1,19 @@
+body {
+    background-color: #F5EEE2;
+    font-family: Tahoma, sans-serif;
+}
+h2 {
+    color: #3C303E;
+    font-family: Arial, serif;
+}
+.special {
+    font-weight: 900;
+    color: #C6B895;
+}
+section {
+    padding:20px;
+}
+
+#colored {
+    background-color: #C6B895;
+}
