@@ -17,3 +17,8 @@ section {
 #colored {
     background-color: #C6B895;
 }
+.contact-info {
+    text-align: center;
+    border: 1px solid #3C303E;
+    padding: 20px;
+}
